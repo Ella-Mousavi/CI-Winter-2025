@@ -8,9 +8,11 @@ This repository contains lecture materials, code implementations, assignments, a
 
 Topics include:
 
+**Homeworks** 
+
 **Week 1:** Welcome to the Birthplace of Deep Learning! (An Introduction to Perceptron)
 
-
+**Week 2:** Beyond Perceptron: Stepping into the Depths of Learning (MLP - Basic)
 
 **Usage Restrictions**  
 
