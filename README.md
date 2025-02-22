@@ -14,6 +14,8 @@ Topics include:
 
 **Week 2:** Beyond Perceptron: Stepping into the Depths of Learning (MLP - Basic)
 
+**Week 3:** Mastering MLP - Part 1
+
 **Usage Restrictions**  
 
 - **Students enrolled in the course** are granted permission to use and distribute the materials **for educational purposes only**.  
