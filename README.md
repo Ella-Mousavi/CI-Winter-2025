@@ -14,7 +14,9 @@ Topics include:
 
 **Week 2:** Beyond Perceptron: Stepping into the Depths of Learning (MLP - Basic)
 
-**Week 3:** Mastering MLP - Part 1
+**Week 3:** Mastering MLP
+
+**Week 4:** Radial Basis Function Neural Networks (RBFNN)
 
 **Usage Restrictions**  
 
