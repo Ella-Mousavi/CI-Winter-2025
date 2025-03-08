@@ -4,6 +4,8 @@
 Welcome to the official repository for the Computer Intelligence (CI) and Its Applications in Mechatronics course at Amirkabir University of Technology.
 This repository contains lecture materials, code implementations, assignments, and datasets used throughout the course.
 
+[Google Drive Link to Class Videos](https://drive.google.com/drive/folders/1wfjf3D303wGqgHrcGLC9bMpNl26oIybw?usp=drive_link)
+
 📌 **Course materials will be updated week by week.**  
 
 Topics include:
