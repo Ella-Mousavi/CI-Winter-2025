@@ -20,6 +20,8 @@ Topics include:
 
 **Week 4:** Radial Basis Function Neural Networks (RBFNN)
 
+**Week 5:** Deep Learning Meets Vision: A Deep Dive into CNNs!
+
 **Usage Restrictions**  
 
 - **Students enrolled in the course** are granted permission to use and distribute the materials **for educational purposes only**.  
