@@ -22,6 +22,12 @@ Topics include:
 
 **Week 5:** Deep Learning Meets Vision: A Deep Dive into CNNs!
 
+**Week 6:** Neural Networks That Remember: Modeling Sequential Data with RNNs
+
+**Week 7 - Part 1:** Standing on the Shoulders of Giants: Transfer Learning \& Using Pre-trained Models
+
+**Week 7 - Part 2:** Zero-Shot Learning With CLIP
+
 **Usage Restrictions**  
 
 - **Students enrolled in the course** are granted permission to use and distribute the materials **for educational purposes only**.  
