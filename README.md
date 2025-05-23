@@ -6,7 +6,7 @@ This repository contains lecture materials, code implementations, assignments, a
 
 [Google Drive Link to Class Videos](https://drive.google.com/drive/folders/1wfjf3D303wGqgHrcGLC9bMpNl26oIybw?usp=drive_link)
 
-📌 **Course materials will be updated week by week.**  
+📌 **Course materials will be updated on a weekly basis. **  
 
 Topics include:
 
@@ -27,6 +27,12 @@ Topics include:
 **Week 7 - Part 1:** Standing on the Shoulders of Giants: Transfer Learning \& Using Pre-trained Models
 
 **Week 7 - Part 2:** Zero-Shot Learning With CLIP
+
+**Week 8:** Learning by Experiencing: Reinforcement Learning and Deep Q-Networks
+
+**Week 9:** Deep Reinforcement Learning with Policy Gradient
+
+**Week 10:** Deep Reinforcement Learning with Actor-Critic
 
 **Usage Restrictions**  
 
