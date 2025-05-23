@@ -34,6 +34,8 @@ Topics include:
 
 **Week 10:** Deep Reinforcement Learning with Actor-Critic
 
+**Week 11:** Fuzzy Logic
+
 **Usage Restrictions**  
 
 - **Students enrolled in the course** are granted permission to use and distribute the materials **for educational purposes only**.  
