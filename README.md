@@ -6,7 +6,7 @@ This repository contains lecture materials, code implementations, assignments, a
 
 [Google Drive Link to Class Videos](https://drive.google.com/drive/folders/1wfjf3D303wGqgHrcGLC9bMpNl26oIybw?usp=drive_link)
 
-📌 **Course materials will be updated on a weekly basis. **  
+📌 **Course materials will be updated on a weekly basis.**  
 
 Topics include:
 
